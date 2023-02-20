@@ -2,5 +2,6 @@ Kashif Maqbool
 Haseeb Jawad
 Abdul Haseeb Khan
 Saad Jhujh
-Lahori Babu
-Example of Merge Conflict.
+This is an example to merge conflicts.
+Merge conflicts examples 
+
